@@ -27,7 +27,7 @@
     <meta property="og:type" content="profile">
     <meta property="og:title" content="Husseim Stuck - Geospatial Data Engineer | Python, SQL, Snowflake">
     <meta property="og:description" content="Specialized in geospatial data, data quality, Python, SQL, and analytics across global environments. Based in Berlin.">
-    <meta property="og:image" content="https://github.com/Husseim-Stuck-Portfolio/Husseim-Stuck-Portfolio.github.io/blob/main/Stuck_Husseim_Image_1_Formal.png?raw=true">
+    <meta property="og:image" content="https://github.com/Husseim-Stuck-Portfolio/Husseim-Stuck-Portfolio.github.io/blob/main/fotos/Stuck_Husseim_Image_1_Formal.png?raw=true">
     <meta property="og:url" content="https://github.com/Husseim-Stuck-Portfolio">
 
     <!-- STRUCTURED DATA (JSON-LD) for Person Entity -->
@@ -347,7 +347,7 @@
           Constraint Checklist: Formal Photo, 21.4M points, 62 countries, Led 11 projects.
         -->
         <section id="hero-geospatial" aria-labelledby="hero-title">
-            <img src="https://github.com/Husseim-Stuck-Portfolio/Husseim-Stuck-Portfolio.github.io/blob/main/Stuck_Husseim_Image_1_Formal.png?raw=true" alt="Husseim Stuck - Geospatial Data Engineer and Analytics Specialist" class="hero-formal">
+            <img src="https://github.com/Husseim-Stuck-Portfolio/Husseim-Stuck-Portfolio.github.io/blob/main/fotos/Stuck_Husseim_Image_1_Formal.png?raw=true" alt="Husseim Stuck - Geospatial Data Engineer and Analytics Specialist" class="hero-formal">
             <div>
                 <h2 id="hero-title" class="headline">Turning complex data into reliable insight.</h2>
                 <p class="lead">Berlin-based Data Engineer turning advanced technical capability into optimized business intelligence. Improving millions of geospatial data points across global maps operations.</p>
@@ -391,7 +391,7 @@
                     <span class="lang-pill"><strong>Czech:</strong> A2</span>
                 </div>
             </div>
-            <img src="https://github.com/Husseim-Stuck-Portfolio/Husseim-Stuck-Portfolio.github.io/blob/main/Stuck_Husseim_Image_2_Casual.jpeg?raw=true" alt="Husseim Stuck - Creative Data Professional based in Berlin" class="casual">
+            <img src="https://github.com/Husseim-Stuck-Portfolio/Husseim-Stuck-Portfolio.github.io/blob/main/fotos/Stuck_Husseim_Image_2_Casual.jpeg?raw=true" alt="Husseim Stuck - Creative Data Professional based in Berlin" class="casual">
         </section>
 
         <!-- 3. CHRONOLOGY (Timeline) -->
