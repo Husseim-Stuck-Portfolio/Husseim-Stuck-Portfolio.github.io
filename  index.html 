@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-<!DOCTYPE html>
-<html lang="en">
-=======
->>>>>>> 60146c61f564cf3354c205167d41073ebb1f64bf
 <head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-019QXX9HVP"></script>
